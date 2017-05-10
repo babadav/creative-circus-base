@@ -380,15 +380,6 @@ td,
 th {
   padding: 0; }
 
-.logo {
-  margin: -58px 0 0 -100px;
-  position: absolute;
-  top: 50%;
-  left: 50%; }
-
-.nav ul {
-  list-style: none; }
-
 @font-face {
   font-family: 'Font-Name';
   src: url("../fonts/font-name.eot");
